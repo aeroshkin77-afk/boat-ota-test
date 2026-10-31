@@ -1,8 +1,5 @@
-{
-  "boat": {
-    "version": "v0.0.2",
-    "size": 607568,
-    "url": "https://github.com/aeroshkin77-afk/boat-ota-test/releases/download/Boat0.0.2/yakortest2.ino.node32s.bin",
-    "sha256": "0b60a27181e582254afc27817c638409af662856e8bdfefdb09e97b93239ccbf"
-  }
-}
+{ 
+  "version": "0.0.2", 
+  "size": 609328, 
+  "sha256": "3594ae29361d5dcb1c5b831303c6b833165a32ea07c461876b2a3f751d21825a" 
+} 
